@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="421e031b-2239-4df8-b240-82fe4480e082" name="Changes" comment="create CrudeOil in analysis branch">
+    <list default="true" id="421e031b-2239-4df8-b240-82fe4480e082" name="Changes" comment="Create CrudeOil in analysis branch for safe code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/CrudeOil.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/StudentMentalHealth.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;priyanshiagarw17&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/priyanshiagarw17/PythonDataScienceProject.git&quot;,
+    &quot;accountId&quot;: &quot;b04c28bf-fd5c-4a88-a2c0-792208061adc&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -43,11 +59,19 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;analysis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\PythonProject2\analysis" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,6 +91,7 @@
       <workItem from="1742662185230" duration="108000" />
       <workItem from="1742810603496" duration="111000" />
       <workItem from="1742810785534" duration="138000" />
+      <workItem from="1742931176035" duration="2231000" />
     </task>
     <task id="LOCAL-00001" summary="create CrudeOil in analysis branch">
       <option name="closed" value="true" />
@@ -92,7 +117,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742810415870</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="some update">
+      <option name="closed" value="true" />
+      <created>1742848234440</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742848234440</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create CrudeOil in analysis branch for safe code">
+      <option name="closed" value="true" />
+      <created>1742848689676</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742848689676</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +152,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create CrudeOil in analysis branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="create CrudeOil in analysis branch" />
+    <MESSAGE value="some update" />
+    <MESSAGE value="Create CrudeOil in analysis branch for safe code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create CrudeOil in analysis branch for safe code" />
   </component>
 </project>
