@@ -35,3 +35,21 @@ class Analyzer:
         }, inplace=True)
         print(self.df)
 
+    def drop_columns(self):
+        self.df.drop(columns=["Timestamp"], inplace=True)
+        print(self.df)
+        self.df.to_csv("cleaned_data.csv")
+
+    def change_values(self):
+        self.df.loc[self.df["Specialist"] == "Yes", "Specialist"] = 1
+        self.df.loc[self.df["Specialist"] == "No", "Specialist"] = 0
+        self.df.loc[self.df["Depression"] == "Yes", "Depression"] = 1
+        self.df.loc[self.df["Depression"] == "No", "Depression"] = 0
+        self.df.loc[self.df["Anxiety"] == "Yes", "Anxiety"] = 1
+        self.df.loc[self.df["Anxiety"] == "No", "Anxiety"] = 0
+        self.df.loc[self.df["Panicattack"] == "Yes", "Panicattack"] = 1
+        self.df.loc[self.df["Panicattack"] == "No", "Panicattack"] = 0
+        self.df.loc[self.df["Gender"] == "Male", "Gender"] = 1
+        self.df.loc[self.df["Gender"] == "Female", "Gender"] = 0
+        print(self.df)
+        self.df.to_csv("cleaned_data.csv")

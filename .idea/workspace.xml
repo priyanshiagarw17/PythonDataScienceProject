@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="421e031b-2239-4df8-b240-82fe4480e082" name="Changes" comment="create class and method based model for analysis that have done">
+    <list default="true" id="421e031b-2239-4df8-b240-82fe4480e082" name="Changes" comment="rename feature for easy use">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analysis/DataAnalyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/DataAnalyzer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analysis/StudentMentalHealth.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/StudentMentalHealth.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analysis/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +96,9 @@
       <workItem from="1742810785534" duration="138000" />
       <workItem from="1742931176035" duration="3673000" />
       <workItem from="1742964941341" duration="5599000" />
-      <workItem from="1743052452861" duration="2728000" />
+      <workItem from="1743052452861" duration="3541000" />
+      <workItem from="1743063299768" duration="36000" />
+      <workItem from="1743245119600" duration="2244000" />
     </task>
     <task id="LOCAL-00001" summary="create CrudeOil in analysis branch">
       <option name="closed" value="true" />
@@ -163,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743012619265</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="rename feature for easy use">
+      <option name="closed" value="true" />
+      <created>1743055991417</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743055991417</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,9 +196,10 @@
     <MESSAGE value="get some knowledge of dataset" />
     <MESSAGE value="create python file for analyse what have done" />
     <MESSAGE value="create class and method based model for analysis that have done" />
-    <option name="LAST_COMMIT_MESSAGE" value="create class and method based model for analysis that have done" />
+    <MESSAGE value="rename feature for easy use" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename feature for easy use" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonDataScienceProject$main.coverage" NAME="main Coverage Results" MODIFIED="1743012776344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis" />
+    <SUITE FILE_PATH="coverage/PythonDataScienceProject$main.coverage" NAME="main Coverage Results" MODIFIED="1743245735749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis" />
   </component>
 </project>
